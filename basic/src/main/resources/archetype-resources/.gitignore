@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+.springBeans
+target
+src/main/resources/server.props
+*launch.sh
+
